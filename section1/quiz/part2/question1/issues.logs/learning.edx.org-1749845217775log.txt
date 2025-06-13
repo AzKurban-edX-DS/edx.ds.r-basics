@@ -1,0 +1,154 @@
+vcd15cbe7772f49c399c6a5babf22c1241717689176015:1 
+            
+            
+           Failed to load resource: net::ERR_CERT_COMMON_NAME_INVALID
+localforage.js:2636 Redefining LocalForage driver: memoryStorageDriver
+config.js:304 App configuration error: SUPPORT_EMAIL is required by Studio Footer component.
+(anonymous) @ config.js:304
+config.js:304 App configuration error: SHOW_ACCESSIBILITY_PAGE is required by Studio Footer component.
+(anonymous) @ config.js:304
+config.js:304 App configuration error: NOTIFICATION_FEEDBACK_URL is required by Header component.
+(anonymous) @ config.js:304
+utils.js:200 Module configuration error: NOTIFICATION_FEEDBACK_URL is required by ProcessEnvConfigService.
+(anonymous) @ utils.js:200
+config.js:304 App configuration error: NOTIFICATION_FEEDBACK_URL is required by Learning Header component.
+(anonymous) @ config.js:304
+config.js:304 App configuration error: CAREERS_URL is required by Learning Header component.
+(anonymous) @ config.js:304
+cdn.segment.com/analytics.js/v1/D3qYPfU97iLtdgglJcVHMxzA4uXZ3u1i/analytics.min.js:1 
+            
+            
+           Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+logger.js:155 [OPTIMIZELY] - WARN  2025-06-13T19:54:45.996Z Invalid eventBatchSize undefined, defaulting to 10
+e.consoleLog @ logger.js:155
+logger.js:155 [OPTIMIZELY] - WARN  2025-06-13T19:54:45.996Z Invalid eventFlushInterval undefined, defaulting to 1000
+e.consoleLog @ logger.js:155
+consoleObservable.ts:58 [OPTIMIZELY] - ERROR 2025-06-13T19:54:46.006Z DatafileManager: Error fetching datafile: Request error
+o.c.i.JZ.<computed> @ consoleObservable.ts:58
+logger.js:152 [OPTIMIZELY] - INFO  2025-06-13T19:54:46.007Z ReactSDK: Client became ready
+logger.js:152 [OPTIMIZELY] - INFO  2025-06-13T19:54:46.007Z OPTIMIZELY: Optimizely object is not valid. Failing decide.
+logger.js:152 [OPTIMIZELY] - INFO  2025-06-13T19:54:46.007Z ReactSDK: Client became ready
+logger.js:152 [OPTIMIZELY] - INFO  2025-06-13T19:54:46.007Z OPTIMIZELY: Optimizely object is not valid. Failing decide.
+logger.js:152 [OPTIMIZELY] - INFO  2025-06-13T19:54:46.007Z ReactSDK: Client became ready
+logger.js:152 [OPTIMIZELY] - INFO  2025-06-13T19:54:46.007Z OPTIMIZELY: Optimizely object is not valid. Failing decide.
+cdn.optimizely.com/datafiles/B1ha73pEGEG2rbcVZSRGj.json:1 
+            
+            
+           Failed to load resource: net::ERR_CERT_COMMON_NAME_INVALID
+lms-main_vendor.4126ac02965c.js:1 JQMIGRATE: Migrate is installed with logging active, version 1.4.1
+lms-main_vendor.4126ac02965c.js:1 JQMIGRATE: jQuery.browser is deprecated
+migrateWarn @ lms-main_vendor.4126ac02965c.js:1
+lms-main_vendor.4126ac02965c.js:1 console.trace
+migrateWarn @ lms-main_vendor.4126ac02965c.js:1
+get @ lms-main_vendor.4126ac02965c.js:1
+(anonymous) @ lms-main_vendor.4126ac02965c.js:1
+(anonymous) @ lms-main_vendor.4126ac02965c.js:1
+block-v1:HarvardX+PH125.1x+1T2025+type@vertical+block@87f58f4a634743c89aae81d898aa8d7f?exam_access=&format=Quiz&preview=0&recheck_access=1&show_bookmark=0&show_title=0&view=student_view:1923 [Intervention] Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://prod-edx-edxapp-assets.edx-cdn.org/static/fonts/vendor/fontawesome-webfont.e6cf7c6ec7c2.woff2?v=4.6.3
+cdn.segment.com/analytics.js/v1/DxfS1h06K5HA7CZDMzmsmuni8JBLmI9u/analytics.min.js:1 
+            
+            
+           Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+vcd15cbe7772f49c399c6a5babf22c1241717689176015:1 
+            
+            
+           Failed to load resource: net::ERR_CERT_COMMON_NAME_INVALID
+cdn.branch.io/branch-latest.min.js:1 
+            
+            
+           Failed to load resource: net::ERR_CERT_COMMON_NAME_INVALID
+lms-main_vendor.4126ac02965c.js:1 JQMIGRATE: jQuery.fn.load() is deprecated
+migrateWarn @ lms-main_vendor.4126ac02965c.js:1
+lms-main_vendor.4126ac02965c.js:1 console.trace
+migrateWarn @ lms-main_vendor.4126ac02965c.js:1
+jQuery.fn.<computed> @ lms-main_vendor.4126ac02965c.js:1
+(anonymous) @ block-v1:HarvardX+PH125.1x+1T2025+type@vertical+block@87f58f4a634743c89aae81d898aa8d7f?exam_access=&format=Quiz&preview=0&recheck_access=1&show_bookmark=0&show_title=0&view=student_view:2137
+lms-main_vendor.4126ac02965c.js:1 JQMIGRATE: jQuery.fn.toggle(handler, handler...) is deprecated
+migrateWarn @ lms-main_vendor.4126ac02965c.js:1
+lms-main_vendor.4126ac02965c.js:1 console.trace
+migrateWarn @ lms-main_vendor.4126ac02965c.js:1
+jQuery.fn.toggle @ lms-main_vendor.4126ac02965c.js:1
+toggle @ lms-main_vendor.4126ac02965c.js:1
+(anonymous) @ lms-application.074dc588ef8a.js:1
+fire @ lms-main_vendor.4126ac02965c.js:1
+fireWith @ lms-main_vendor.4126ac02965c.js:1
+ready @ lms-main_vendor.4126ac02965c.js:1
+completed @ lms-main_vendor.4126ac02965c.js:1
+lms-main_vendor.4126ac02965c.js:1 JQMIGRATE: jQuery.fn.size() is deprecated; use the .length property
+migrateWarn @ lms-main_vendor.4126ac02965c.js:1
+lms-main_vendor.4126ac02965c.js:1 console.trace
+migrateWarn @ lms-main_vendor.4126ac02965c.js:1
+jQuery.fn.size @ lms-main_vendor.4126ac02965c.js:1
+(anonymous) @ header.5d27dd11cfda.js:71
+fire @ lms-main_vendor.4126ac02965c.js:1
+fireWith @ lms-main_vendor.4126ac02965c.js:1
+ready @ lms-main_vendor.4126ac02965c.js:1
+completed @ lms-main_vendor.4126ac02965c.js:1
+hx.js:1410 {"script asset url":"https://static.vpal.harvard.edu/cdn/universal/"}
+hx.js:1410 {"HX.js":"enabled"}
+hx.js:1410 {"course_log_id":"HarvardX.PH125.1x_1T2025"}
+hx.js:1410 {"code_block":"found"}
+hx.js:181 Array(2)
+hx.js:183 hxGlobalOptions.js
+hx.js:184 https://static.vpal.harvard.edu/cdn/universal/
+hx.js:190 https://courses.edx.org/asset-v1:HarvardX+PH125.1x+1T2025+type@asset+block/
+hx.js:1410 {"loading_script":"https://courses.edx.org/asset-v1:HarvardX+PH125.1x+1T2025+type@asset+block/hxGlobalOptions.js"}
+hx.js:183 prism.js
+hx.js:184 https://static.vpal.harvard.edu/cdn/universal/
+hx.js:190 https://static.vpal.harvard.edu/cdn/universal/
+hx.js:1410 {"loading_script":"https://static.vpal.harvard.edu/cdn/universal/prism.js"}
+hx.js:1410 {"Loaded scripts":["hxGlobalOptions.js","prism.js"]}
+hx.js:316 Window hxOptions set
+hx.js:1410 "marking external links"
+hx.js:810 setting visibility from memory
+chromewebdata/:1 
+            
+            
+           Failed to load resource: the server responded with a status of 404 ()
+chromewebdata/:1 Refused to display 'https://courses.edx.org/' in a frame because it set 'X-Frame-Options' to 'deny'.
+block-v1:HarvardX+PH…89aae81d898aa8d7f:1 Uncaught (in promise) Error: A listener indicated an asynchronous response by returning true, but the message channel closed before a response was received
+block-v1:HarvardX+PH125.1x+1T2025+type@vertical+block@87f58f4a634743c89aae81d898aa8d7f:1 The resource https://prod-edx-edxapp-assets.edx-cdn.org/static/css/vendor/jquery.autocomplete.efeb242dd532.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+block-v1:HarvardX+PH125.1x+1T2025+type@vertical+block@87f58f4a634743c89aae81d898aa8d7f:1 The resource https://prod-edx-edxapp-assets.edx-cdn.org/static/css/vendor/jquery.autocomplete.efeb242dd532.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+hx.js:717 problem_check input_f4503647ff814338891a3a4f0206a34a_2_1=none+of+these&input_f4503647ff814338891a3a4f0206a34a_3_1=order(x)&input_f4503647ff814338891a3a4f0206a34a_4_1=rank(x)&input_f4503647ff814338891a3a4f0206a34a_5_1=sort(x)
+hx.js:810 setting visibility from memory
+datadog-rum.js:1 
+            
+            
+           POST https://courses.edx.org/event 403 (Forbidden)
+s @ datadog-rum.js:1
+s @ datadog-logs.js:1
+send @ lms-main_vendor.4126ac02965c.js:1
+ajax @ lms-main_vendor.4126ac02965c.js:1
+jQuery.ajaxWithPrefix @ lms-application.074dc588ef8a.js:1
+sendRequest @ lms-application.074dc588ef8a.js:1
+log @ lms-application.074dc588ef8a.js:1
+e.submit_internal @ ProblemBlockDisplay.0d6e10aabc21778c1aae.3cf7129fbf6a.js:1
+submit_internal @ ProblemBlockDisplay.0d6e10aabc21778c1aae.3cf7129fbf6a.js:1
+e.disableAllButtonsWhileRunning @ ProblemBlockDisplay.0d6e10aabc21778c1aae.3cf7129fbf6a.js:1
+disableAllButtonsWhileRunning @ ProblemBlockDisplay.0d6e10aabc21778c1aae.3cf7129fbf6a.js:1
+e.submit @ ProblemBlockDisplay.0d6e10aabc21778c1aae.3cf7129fbf6a.js:1
+submit @ ProblemBlockDisplay.0d6e10aabc21778c1aae.3cf7129fbf6a.js:1
+e.submit_fd @ ProblemBlockDisplay.0d6e10aabc21778c1aae.3cf7129fbf6a.js:1
+submit_fd @ ProblemBlockDisplay.0d6e10aabc21778c1aae.3cf7129fbf6a.js:1
+dispatch @ lms-main_vendor.4126ac02965c.js:1
+elemData.handle @ lms-main_vendor.4126ac02965c.js:1
+datadog-rum.js:1 
+            
+            
+           POST https://courses.edx.org/courses/course-v1:HarvardX+PH125.1x+1T2025/xblock/block-v1:HarvardX+PH125.1x+1T2025+type@problem+block@f4503647ff814338891a3a4f0206a34a/handler/xmodule_handler/problem_check 403 (Forbidden)
+s @ datadog-rum.js:1
+s @ datadog-logs.js:1
+send @ lms-main_vendor.4126ac02965c.js:1
+ajax @ lms-main_vendor.4126ac02965c.js:1
+jQuery.<computed> @ lms-main_vendor.4126ac02965c.js:1
+jQuery.postWithPrefix @ lms-application.074dc588ef8a.js:1
+e.submit_internal @ ProblemBlockDisplay.0d6e10aabc21778c1aae.3cf7129fbf6a.js:1
+submit_internal @ ProblemBlockDisplay.0d6e10aabc21778c1aae.3cf7129fbf6a.js:1
+e.disableAllButtonsWhileRunning @ ProblemBlockDisplay.0d6e10aabc21778c1aae.3cf7129fbf6a.js:1
+disableAllButtonsWhileRunning @ ProblemBlockDisplay.0d6e10aabc21778c1aae.3cf7129fbf6a.js:1
+e.submit @ ProblemBlockDisplay.0d6e10aabc21778c1aae.3cf7129fbf6a.js:1
+submit @ ProblemBlockDisplay.0d6e10aabc21778c1aae.3cf7129fbf6a.js:1
+e.submit_fd @ ProblemBlockDisplay.0d6e10aabc21778c1aae.3cf7129fbf6a.js:1
+submit_fd @ ProblemBlockDisplay.0d6e10aabc21778c1aae.3cf7129fbf6a.js:1
+dispatch @ lms-main_vendor.4126ac02965c.js:1
+elemData.handle @ lms-main_vendor.4126ac02965c.js:1
+block-v1:HarvardX+PH125.1x+1T2025+type@vertical+block@87f58f4a634743c89aae81d898aa8d7f:1 The resource https://prod-edx-edxapp-assets.edx-cdn.org/static/css/vendor/jquery.autocomplete.efeb242dd532.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
